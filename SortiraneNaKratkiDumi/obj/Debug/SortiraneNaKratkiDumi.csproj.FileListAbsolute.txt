@@ -1,0 +1,8 @@
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.exe.config
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.exe
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.pdb
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.AssemblyReference.cache
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.SuggestedBindingRedirects.cache
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.CoreCompileInputs.cache
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.exe
+E:\Programming\LambdaIzraziILinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.pdb

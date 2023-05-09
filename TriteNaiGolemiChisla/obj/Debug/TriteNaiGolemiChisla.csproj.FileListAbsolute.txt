@@ -1,0 +1,8 @@
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.exe.config
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.exe
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.pdb
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.AssemblyReference.cache
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.SuggestedBindingRedirects.cache
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.CoreCompileInputs.cache
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.exe
+E:\Programming\LambdaIzraziILinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.pdb

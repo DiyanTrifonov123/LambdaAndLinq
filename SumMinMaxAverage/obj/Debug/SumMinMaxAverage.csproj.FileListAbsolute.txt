@@ -1,0 +1,8 @@
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe.config
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.pdb
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csproj.AssemblyReference.cache
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csproj.SuggestedBindingRedirects.cache
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csproj.CoreCompileInputs.cache
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.exe
+E:\Programming\LambdaIzraziILinq\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.pdb
